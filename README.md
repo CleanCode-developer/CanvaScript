@@ -11,10 +11,11 @@ in order to use the libary use th <code>import cavnascript</code>
 ## Creating a HTML page
 first Let's Create a HTML page that Java can use. 
  
-<font color="blue">
+
 import canvascript.htmldoc;
  class examlpe001{
  htmldoc page = new htmldoc();
  <b>htmldoc.CreateHTML(pageName,pageTitle);</b>
  htmldoc.CloseHTML();
-</font>
+ }
+
