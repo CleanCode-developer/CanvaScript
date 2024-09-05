@@ -19,4 +19,4 @@ import canvascript.htmldoc;
  htmldoc.CloseHTML();
  }
 </code>
-the <code><b>htmldoc.CreateHTML();</b></code>it takes a few string parameters.pagePath is the folder of the page. next pagePath is the name of the page. then pagePath is the text in the <code>&lt;title&lt;</code>. now Metatags. you only need put <code>&lt;meta charset="UTF-8" /&lt;</code>. the function creates the page but not fully,enable other functions to add code.this is when <code>htmldoc.CloseHTML();</code>
+the <code><b>htmldoc.CreateHTML();</b></code>it takes a few string parameters. pagePath is the folder of the page. next pagePath is the name of the page. then pagePath is the text in the <code>&lt;title&lt;</code>. now Metatags. you only need put <code>&lt;meta charset="UTF-8" /&lt;</code>. the function creates the page but not fully,enable other functions to add code.this is when <code>htmldoc.CloseHTML();</code> come in. it close the file.
