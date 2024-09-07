@@ -1,7 +1,7 @@
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/0/01/CanvaScript.png "a tite")
 # Welcome to CanvaScript
-CanvaScipt is a library for Java.it enabling Java as a sever-side langange.if you have issues please go to
+CanvaScipt is a library for Java.it enabling Java as a sever-side langange.it's lighter JSP(if you are wondering)if you have issues please go to
 https://github.com/CleanCode-backup/CanvaScript/issues
 and make a new issue.also if you can  do a pull request please do that.that will make my day 😊!you can go to
 https://github.com/CleanCode-backup/CanvaScript/pulls for that.
@@ -12,7 +12,7 @@ in order to use the libary use th <code>import cavnascript</code>
 first Let's Create a HTML page that Java can use. 
  
 <code>
-import canvascript.htmldoc;
+import canvascript.doc.htmldoc;
  class examlpe001{
  htmldoc page = new htmldoc();
  <b>htmldoc.CreateHTML(pagePath,pageName,pageTitle,);</b>
