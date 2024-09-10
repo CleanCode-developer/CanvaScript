@@ -6,7 +6,7 @@ class htmldoc{
     public static void CreateHTML(String Path,String file,String title,String metaTags,cssdoc CSS)throws FileNotFoundException{
         
        source = new PrintStream(new File(Path + file));
-        source.println("<!DOCTYPE html><html><head><title>"+ title +"<title>"+ metaTags + "</head><body>" );
+        source.println("<!DOCTYPE html><html><head><title>"+ title +"<title>"+ metaTags +"<sytle>" + "</sytle>" +"</head><body>" );
         
     }
     public static void CreateHTML(String Path,String file,String title)throws FileNotFoundException{
