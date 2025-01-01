@@ -1,7 +1,7 @@
 
 ![img](https://github.com/CleanCode-developer/CanvaScript/blob/main/CanvaScript.png?raw=true "CanvaScript ")
 # Welcome to CanvaScript
->get Tickets for CanvaSrcipt LIVE! live is our announcement event thing that will being on our discord server.(burh i don't have money to buy or rent a fancy building and host a party)
+>discord discord discord discord https://discord.gg/CYafGNJZ?event=1323827068944777237
 
 
 
@@ -31,3 +31,6 @@ render("<p>Hello CanvaScript World </p>")
 
 }
 ```
+done!
+
+naaaaaaaaaa
