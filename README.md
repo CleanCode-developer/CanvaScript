@@ -1,7 +1,8 @@
 
 ![img](https://github.com/CleanCode-developer/CanvaScript/blob/main/CanvaScript.png?raw=true "CanvaScript ")
 # Welcome to CanvaScript
->discord discord discord discord https://discord.gg/CYafGNJZ?event=1323827068944777237
+>discord discord discord discord event LIVE ! https://discord.gg/CYafGNJZ?event=1323827068944777237
+>join US!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
