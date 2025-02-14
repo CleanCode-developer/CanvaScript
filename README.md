@@ -1,7 +1,7 @@
 
 ![img](https://github.com/CleanCode-developer/CanvaScript/blob/main/CanvaScript.png?raw=true "CanvaScript ")
 # Welcome to CanvaScript
->discord discord discord discord event LIVE ! https://discord.gg/CYafGNJZ?event=1323827068944777237
+>discord discord discord discord  https://discord.gg/CYafGNJZ?event=1323827068944777237
 >join US!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
@@ -11,7 +11,7 @@ https://github.com/CleanCode-backup/CanvaScript/issues
 and make a new issue.also if you can  do a pull request please do that.that will make my day 😊!you can go to
 https://github.com/CleanCode-backup/CanvaScript/pulls for that.
 # Tutorials - Learn More 
-Welcome to the To Tutorials,for full documentation go to the <a href="Docs.md">Docs</a>(if you are wonder the folder doc is a part of the library.) 
+Welcome to the To Tutorials,for full documentation go to the <a href="Docs.md">Docs</a> 
 in order to use the libary use the  
 ```java
 import cavnascript.core
